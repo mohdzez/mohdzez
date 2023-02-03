@@ -18,13 +18,13 @@
 
 </a>
 
-<a  href="https://mohammadazizramay"  target="_blank">
+<a  href="https://mohdzez.github.io/me"  target="_blank">
 
 <img  src="https://shields.io/badge/-WEBSITE-2B579A?style=for-the-badge&logo=website&logoColor=fff&labelColor=333"  />
 
 </a>
 
-<a  href="https://github.com/mohdzez"  target="_blank">
+<a  href="https://github.com/mohdzez?tab=repositories"  target="_blank">
 
 <img  src="https://shields.io/badge/-Github-181717?style=for-the-badge&logo=github&logoColor=fff&labelColor=333"  />
 
