@@ -2,7 +2,7 @@
 
 Full stack engineer in Lahore, Pakistan. I've spent 5+ years building products end to end, twice as the founding engineer, and most of my work now is LLM systems that run in production: MCP servers, agent pipelines and evals.
 
-[Website](https://mohammadaziz.me) · [LinkedIn](https://www.linkedin.com/in/mohdzez/) · [Email](mailto:mohammadazizramay@gmail.com)
+[Website](https://mohammadaziz.me) · [LinkedIn](https://www.linkedin.com/in/mohdzez/) · [Email](mailto:mohammadazizramay@gmail.com) · [Resume](Mohammad_Aziz_Resume.pdf)
 
 ## Liftoff
 
