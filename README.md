@@ -1,204 +1,34 @@
-<h1  align="center">Hi there!
+# Mohammad Aziz
 
-<img  src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"  width="25px"  />
+Full stack engineer in Lahore, Pakistan. I've spent 5+ years building products end to end, twice as the founding engineer, and most of my work now is LLM systems that run in production: MCP servers, agent pipelines and evals.
 
-</h1>
+[Website](https://mohammadaziz.me) · [LinkedIn](https://www.linkedin.com/in/mohdzez/) · [Email](mailto:mohammadazizramay@gmail.com)
 
-  
+## Liftoff
 
-<p  align="center">My name is <b><code>Mohammad Aziz</code></b>. I am a <code>full-stack web developer</code> with a passion for building smart and easy-to-use applications. I am a perfectionist with a sense of detail and ensure quality and high professionalism in everything I do. One word – <code>programmer</code>.</p>
+[![Liftoff canvas: web, api and worker services wired to a managed Postgres, mid-deploy](assets/liftoff-canvas.png)](https://tryliftoff.tech)
 
-  
+**[tryliftoff.tech](https://tryliftoff.tech)** · Push code. Get infrastructure. Keep both.
 
-<p  align="center">
+My side project, built solo. You draw your services and databases on a canvas and push to GitHub. Your own GitHub Actions build the images, and Pulumi provisions everything into your own cloud account: DigitalOcean today, Azure in beta. Your cloud credentials never pass through Liftoff's servers, and the infrastructure stays yours if you disconnect.
 
-<a  href="mailto:mohammadazizramay@gmail.com"  target="_blank">
+The `liftoff-*` and `linkboard` repos pinned below are small demo apps I deploy on it to exercise the platform: multi-service canvases, managed Postgres and Redis, gated migrations, logs and metrics. Liftoff's own source isn't public yet. It's meant to be open source, and I want it stable at 1.0 first.
 
-<img  src="https://shields.io/badge/-e--mail-red?style=for-the-badge&logo=gmail&logoColor=fff&labelColor=333"  />
+## Work
 
-</a>
+At Venturenox I work on **SarahAI**, an AI executive assistant for small businesses that runs on WhatsApp, voice and mobile. Some of what I've built there:
 
-<a  href="https://mohdzez.github.io/me"  target="_blank">
+- An MCP server that routes model calls to fallback open-source models on Groq and Cerebras, picking by live latency and cost
+- The move from Respond.io to Meta's WhatsApp Cloud API, done as a live hot swap with no downtime for users mid-conversation
+- Durable agent workflows on Inngest, and time-based message delivery on AWS Lambda, SQS and EventBridge
+- Prompt versioning and tracing in Langfuse across OpenAI, Gemini and Claude
 
-<img  src="https://shields.io/badge/-WEBSITE-2B579A?style=for-the-badge&logo=website&logoColor=fff&labelColor=333"  />
+Before that I was the first engineer at **Informly** (2023–2025). I took a business growth platform from an empty repo to paying enterprise customers, including an AI engine with graph-based tenant memory and LLM-as-judge evals, and a drag-and-drop workflow builder on Hatchet.
 
-</a>
+## Stack
 
-<a  href="https://github.com/mohdzez?tab=repositories"  target="_blank">
+![TypeScript, Python, React, Next.js, Node.js, Django, GraphQL, PostgreSQL, AWS, GCP, Docker, GitHub Actions](assets/stack.svg)
 
-<img  src="https://shields.io/badge/-Github-181717?style=for-the-badge&logo=github&logoColor=fff&labelColor=333"  />
+Also Inngest, Hatchet, MCP, Langfuse and Pulumi.
 
-</a>
-
-</p>
-
-  
-
-<h2></h2>
-
-  
-
-<img  align="right"  alt="GIF"  src="https://github.com/mohdzez/mohdzez/blob/main/code.gif?raw=true"  width="500"  height="320"  />
-
-- 😄 Pronounce me as `/moˈha.mɛt/`
-
-- 🎓 Undergrad at University of Central Punjab Lahore
-
-- ‍🎓 Bachelor of Science in Computer Science
-
-- 🏛 Working on multiple freelancing projects
-
-- ⚡ Expert Full Stack Engineer
-
-- 🌱 Currently expanding my knowledge and experience
-
-- 🔭 Always on lookout for amazing opportunities
-
-- 🇵🇰 Lahore, Punjab, Pakistan
-
-- 📱 (+92) 321 6006717
-
-  
-
-<br><br><br><br>
-
-  
-
-<div  align="center">
-
-
-<a  href="https://github.com/mohdzez/"  target="_blank">
-
-<img  src="https://img.shields.io/badge/Github-211F1F?style=for-the-badge&logo=GitHub&logoColor=ffffff">
-
-</a>
-
-<a  href="https://www.linkedin.com/in/mohdzez/"  target="_blank">
-
-<img  src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=ffffff">
-
-</a>
-
-<a  href="mailto:mohammadazizramay@gmail.com"  target="_blank">
-
-<img  src="https://img.shields.io/badge/Gmail-D44638?style=for-the-badge&logo=gmail&logoColor=ffffff">
-
-</a>
-
-<a  href="https://wa.me/923216006717?text=%23Github"  target="_blank">
-
-<img  src="https://img.shields.io/badge/Chat-25D366?style=for-the-badge&logo=WhatsApp&logoColor=ffffff">
-
-</a>
-
-</div>
-
-  
-
-<h2></h2>
-
-  
-
-<h2  align="center">Languages, tools and technologies that I use:</h2>
-
-  
-
-<p  align="center">
-
-<img  src="https://img.shields.io/badge/-JavaScript-e3f248?style=flat-square&logo=JavaScript&logoColor=yellow"  />
-
-<img  src="https://img.shields.io/badge/-TypeScript-216186?style=flat-square&logo=TypeScript&logoColor=blue"  />
-
-<img  src="https://img.shields.io/badge/-Node.Js-8fed2e?style=flat-square&logo=node.js&logoColor=green"  />
-
-<img  src="https://img.shields.io/badge/-React-20232a?style=flat-square&logo=React&logoColor=61DAFB"  />
-
-<img  src="https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=Next.js&logoColor=white"  />
-
-<img  src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"  />
-
-<img  src="https://img.shields.io/badge/-webpack-2b3a42?style=flat-square&logo=webpack&logoColor=8DD6F9"  />
-
-<img  src="https://img.shields.io/badge/-styled_components-DB7093?style=flat-square&logo=styled-components&logoColor=white"  />
-
-<img  src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"  />
-
-<img  src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"  />
-
-<img  src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"  />
-
-<img  src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white"  />
-
-</p>
-
-  
-
-<h2></h2>
-
-  
-
-<details>
-
-<summary>
-
-Git Hub Stats 📝
-
-</summary>
-
-<p>
-
-<center>
-
-<div  align="center">
-
-<img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdzez&theme=dark&layout=compact&langs_count=20"/>
-
-</div>
-
-<br>
-
-<div  align="center">
-
-<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=mohdzez&theme=dark"/>
-
-</div>
-
-<br>
-
-<p  align="center">
-
-<img  align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=mohdzez&theme=dark&hide_border=true"/>
-
-</p>
-
-<p  align="center">
-
-<img  src="https://metrics.lecoq.io/mohdzez"  alt="Github Metrics"  />
-
-</p>
-
-</center>
-
-</p>
-
-</details>
-
-  
-
-<h2></h2>
-
-  
-
-<h3  align="center">
-
-Show some ❤ by
-
-<img  src="https://imgur.com/o7ncZFp.jpg"  height=25px  width=25px> some repositories .
-
-</h3>
-
-  
-
-<h2></h2>
-
-
+Email is the quickest way to reach me.
